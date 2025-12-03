@@ -28,13 +28,13 @@ FET445_TeamShinningStars/
 │   └── ...
 │
 ├── notebooks/                     # Jupyter Notebook Kod Dosyaları
-│   ├── FTeamShinningStars_DataPreparation.ipynb # Ortak Veri Analizi ve Temizlik
+│   ├── TeamShinningStars_DataPreparation.ipynb # Ortak Veri Analizi ve Temizlik
 │   ├── YUSUF_RIDVAN_CELIKBAS_22040101055_TeamShinningStars.ipynb  # Logistic Regression
 │   ├── AYCA_SU_YILDIRIM_22040101049_TeamShinningStars.ipynb  # Random Forest
 │   ├── MUHAMMED_EFE_KUCUKYETER_22040101042_TeamShinningStars.ipynb  # Decision Tree
 │   └── EMRE_SOMER_CABAK_22040101027_TeamShinningStars.ipynb  # XGBoost vs Bagging
 │
-├── FYUSUF_RIDVAN_CELIKBAS_22040101055_TeamShinningStars.pdf.  # Proje İlerleme Raporu (PDF)
+├── YUSUF_RIDVAN_CELIKBAS_22040101055_TeamShinningStars.pdf.  # Proje İlerleme Raporu (PDF)
 └── README.md                           # Proje dokümantasyonu (Bu dosya)
 
 ---
